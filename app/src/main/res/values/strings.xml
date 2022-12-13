@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Tugas5</string>
+    <string name="Close">Close</string>
+    <string name="Open">Open</string>
+    <string name="deskription_menu">Arwana Asia, atau Siluk Merah adalah salah satu spesies ikan air tawar dari Asia Tenggara. Ikan ini memiliki badan yang panjang; sirip dubur terletak jauh di belakang badan. Arwana Asia umumnya memiliki warna keperak-perakan."</string>
+    <string name="ingredients">Diskon minggu ini 60% OFF</string>
+    <string name="price">Harga :</string>
+    <string name="Harga">Rp.7.500.000</string>
+    <string name="navigation_drawer_open">Open NavigationDrawer</string>
+    <string name="navigation_drawer_close">Close NavigationDrawer</string>
+    <string-array name="IKAN">
+        <item>Koi</item>
+        <item>Cupang</item>
+        <item>Canah</item>
+    </string-array>
+    <string-array name="Star">
+        <item>3.0</item>
+        <item>4.5</item>
+        <item>5.0</item>
+    </string-array>
+    <string-array name="Deskripsi">
+        <item>50.000</item>
+        <item>125.000</item>
+        <item>500.000</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
